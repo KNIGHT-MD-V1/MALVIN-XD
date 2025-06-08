@@ -19,7 +19,7 @@ malvin({
         await reply("🔍 Checking for MALVIN-XD updates...");
 
         // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://api.github.com/repos/XdKing2/MALVIN-XD/commits/main");
+        const { data: commitData } = await axios.get("https://api.github.com/repos/KNIGHT-MD-V1/MALVIN-XD/commits/main");
         const latestCommitHash = commitData.sha;
 
         // Get the stored commit hash from the database
@@ -33,7 +33,7 @@ malvin({
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/XdKing2/MALVIN-XD/archive/main.zip", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/KNIGHT-MD-V1/MALVIN-XD/archive/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
