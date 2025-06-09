@@ -13,7 +13,7 @@ malvin({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/XdKing2/MALVIN-XD';
+    const githubRepoURL = 'https://github.com/MALVIN-XD';
 
     try {
         // Extract username and repo name from the URL
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363398430045533@newsletter',
+                    newsletterJid: '120363400240662312@newsletter',
                     newsletterName: 'ᴍᴀʟᴠɪɴ xᴅ ʀᴇᴘᴏ',
                     serverMessageId: 143
                 }
