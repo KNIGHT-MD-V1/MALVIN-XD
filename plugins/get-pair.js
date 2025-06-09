@@ -7,7 +7,7 @@ malvin({
     react: "✅",
     desc: "Get pairing code for MALVIN-XD bot",
     category: "download",
-    use: ".pair 263714757xxx",
+    use: ".pair 94771825xxx",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, senderNumber, reply }) => {
     try {
@@ -16,7 +16,7 @@ malvin({
 
         // Validate phone number format
         if (!phoneNumber || phoneNumber.length < 10 || phoneNumber.length > 15) {
-            return await reply("❌ Please provide a valid phone number without `+`\nExample: `.pair 26371475xxx`");
+            return await reply("❌ Please provide a valid phone number without `+`\nExample: `.pair 94771825xxx`");
         }
 
         // Make API request to get pairing code
