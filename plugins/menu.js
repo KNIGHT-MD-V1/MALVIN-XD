@@ -6,9 +6,9 @@ const axios = require('axios')
 const fs = require('fs')
 
 malvin({
-    pattern: "menu3",
+    pattern: "menu",
     alias: ["allmenu","fullmenu"],
-    use: '.menu3',
+    use: '.menu',
     desc: "Show all bot commands",
     category: "menu",
     react: "📜",
@@ -343,7 +343,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363398430045533@newsletter',
+                        newsletterJid: '120363400240662312@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
