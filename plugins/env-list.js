@@ -73,7 +73,7 @@ ${generateSettingsList()}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363398430045533@newsletter',
+                    newsletterJid: '120363400240662312@newsletter',
                     newsletterName: "Malvin King",
                     serverMessageId: 143
                 }
