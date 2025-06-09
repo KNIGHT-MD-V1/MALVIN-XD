@@ -46,7 +46,7 @@ malvin({
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
             mediaUrl: "https://files.catbox.moe/medum3", // Static image URL
-            sourceUrl: "https://wa.me/263780166288",
+            sourceUrl: "https://wa.me/94771825193",
             showAdAttribution: true
           }
         }
