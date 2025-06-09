@@ -24,10 +24,10 @@ malvin({
 │ 👨‍💻 *OWNER DETAILS:*
 │ ───────────────
 │ 🧠 *Name* : Malvin King
-│ 🕯️ *Age* : +20
-│ ☎️ *Contact* : wa.me/+1(276) 698-8379
-│ ▶️ *YouTube* : Malvin King Tech (malvintech2)
-│    https://youtube.com/@malvintech2
+│ 🕯️ *Age* : +18
+│ ☎️ *Contact* : wa.me/+94771825193
+│ ▶️ *YouTube* : Malvin King Tech
+│    https://youtube.com/
 │
 │ ⚡ Powered by *Malvin King*
 │
@@ -44,7 +44,7 @@ malvin({
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363398430045533@newsletter',
+                        newsletterJid: '120363400240662312@newsletter',
                         newsletterName: '🪀『 𝙼𝙰𝙇𝚅𝙸𝙽-𝚇𝙳 』🪀',
                         serverMessageId: 143
                     },
