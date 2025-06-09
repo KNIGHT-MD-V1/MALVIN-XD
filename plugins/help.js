@@ -144,7 +144,7 @@ Absolutely! Let’s go through each section of the commands:
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363398430045533@newsletter',
+                        newsletterJid: '120363400240662312@newsletter',
                         newsletterName: '𝐌𝐀𝐋𝐕𝐈𝐍 𝐀𝐋𝐈𝐕𝐄',
                         serverMessageId: 143
                     }
