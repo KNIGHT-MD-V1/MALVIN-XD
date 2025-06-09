@@ -40,16 +40,16 @@ malvin({
 
 ${readMore}
 \`🔔 ᴄʜᴀɴɴᴇʟ🩵\`
-🔗 https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+🔗 https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e
 
 \`👥 ɢʀᴏᴜᴘ💙\`
-🔗 https://chat.whatsapp.com/Di4685k99JS5RGdS2Z4WMi
+🔗 https://chat.whatsapp.com/CJpXPiAQn0lHAa2QOAr4i8
 
 \`🎥 ʏᴛ ᴄʜᴀɴɴᴇʟ🚀\`
-🔗 https://youtube.com/@malvintech2
+🔗 https://youtube.com/
 
 \`💻 ᴍʀ ᴍᴀʟᴠɪɴ ᴋ\` *Developer🧑‍💻*
-🔗 wa.me/263714757857?text=Support!
+🔗 wa.me/94771825193
 
 > 🚀 *ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ᴄʜᴀɴɴᴇʟ* 🚀
 `;
@@ -64,7 +64,7 @@ ${readMore}
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363398430045533@newsletter',
+                        newsletterJid: '120363400240662312@newsletter',
                         newsletterName: '🪀『 𝙼𝙰𝙻𝚅𝙸𝙽-𝚇𝙳 』🪀',
                         serverMessageId: 143
                     }
